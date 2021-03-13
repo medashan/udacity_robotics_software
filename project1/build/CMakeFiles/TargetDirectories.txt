@@ -1,0 +1,3 @@
+/home/medashan/catkin_ws/src/udacity_robotics_software/project1/build/CMakeFiles/edit_cache.dir
+/home/medashan/catkin_ws/src/udacity_robotics_software/project1/build/CMakeFiles/rebuild_cache.dir
+/home/medashan/catkin_ws/src/udacity_robotics_software/project1/build/CMakeFiles/hello.dir
